@@ -1358,3 +1358,6 @@ div.code-toolbar>.toolbar a:focus, div.code-toolbar>.toolbar a:hover, div.code-t
 .collapsable-code .code-toolbar {
     margin: 0
 }
+a:hover {
+    color: lightgray;
+}
