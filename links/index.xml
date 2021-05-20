@@ -2,17 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Links on Yash Patel</title>
+    
+    
+    
     <link>http://DarkishLocket10.github.io/links/</link>
-    <description>Recent content in Links on Josiah Henson</description>
+    <description>Recent content in Links on Yash Patel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-ca</language><atom:link href="http://DarkishLocket10.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-ca</language>
+    
+	<atom:link href="http://DarkishLocket10.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Email</title>
       <link>http://DarkishLocket10.github.io/links/email/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://DarkishLocket10.github.io/links/email/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Email
+          
+        
+        </description>
     </item>
     
     <item>
@@ -21,7 +39,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://DarkishLocket10.github.io/links/linkedin/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          My resume and connections.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -30,7 +59,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://DarkishLocket10.github.io/links/github/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Find my open-source projects and contributions here.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -39,7 +79,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://DarkishLocket10.github.io/links/twitter/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Quick thoughts.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -48,7 +99,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://DarkishLocket10.github.io/links/instagram/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Visual thoughts.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -57,7 +119,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://DarkishLocket10.github.io/links/youtube/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Anything that interests me in visual form.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -66,7 +139,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://DarkishLocket10.github.io/links/goodreads/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Everything I&#39;ve read, am reading, and want to read.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -75,7 +159,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://DarkishLocket10.github.io/links/lastfm/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Everything I&#39;m listening to.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -84,7 +179,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://DarkishLocket10.github.io/links/trakt/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          What I&#39;m watching.
+          
+        
+        </description>
     </item>
     
   </channel>
