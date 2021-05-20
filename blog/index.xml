@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Hello Friend</title>
+    <title>Blogs on Yash Patel</title>
     
     
     
-    <link>https://DarkishLocket10.github.io/blog/</link>
-    <description>Recent content in Blogs on Hello Friend</description>
+    <link>http://DarkishLocket10.github.io/blog/</link>
+    <description>Recent content in Blogs on Yash Patel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <language>en-ca</language>
+    <lastBuildDate>Thu, 20 May 2021 04:38:42 -0400</lastBuildDate>
     
-	<atom:link href="https://DarkishLocket10.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://DarkishLocket10.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Showcase</title>
-      <link>https://DarkishLocket10.github.io/blog/blog/</link>
-      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      <title>My first post</title>
+      <link>http://DarkishLocket10.github.io/blog/myfirstpost/my-first-post/</link>
+      <pubDate>Thu, 20 May 2021 04:38:42 -0400</pubDate>
       
-      <guid>https://DarkishLocket10.github.io/blog/blog/</guid>
+      <guid>http://DarkishLocket10.github.io/blog/myfirstpost/my-first-post/</guid>
       <description>
         
           
@@ -28,7 +28,7 @@
         
         
         
-          *Nothing to see here right now! This is page is a work in progress!
+          Hey Everyone! This is my first post. Looks like I still have some work to do in order to make this place look a little more pretty&amp;hellip; So far so good!
           
         
         </description>
