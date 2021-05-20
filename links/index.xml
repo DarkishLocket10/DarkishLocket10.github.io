@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yash Patel</title>
+    <title>Links on Yash Patel</title>
     
     
     
-    <link>http://DarkishLocket10.github.io/</link>
-    <description>Recent content on Yash Patel</description>
+    <link>http://DarkishLocket10.github.io/links/</link>
+    <description>Recent content in Links on Yash Patel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://DarkishLocket10.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://DarkishLocket10.github.io/links/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -35,27 +34,6 @@
     </item>
     
     <item>
-      <title>PatelHenson Photos</title>
-      <link>http://DarkishLocket10.github.io/projects/yashpatelphotos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://DarkishLocket10.github.io/projects/yashpatelphotos/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          A portfolio of photos I&amp;rsquo;ve taken with @pbinspanish. Follow our adventures as we practise our photography skills! For every one you see, there&amp;rsquo;s a thousand you don&amp;rsquo;t Link
- 
-          
-        
-        </description>
-    </item>
-    
-    <item>
       <title>LinkedIn</title>
       <link>http://DarkishLocket10.github.io/links/linkedin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -70,27 +48,6 @@
         
         
           My resume and connections.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>My PosterDB page</title>
-      <link>http://DarkishLocket10.github.io/projects/posters/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://DarkishLocket10.github.io/projects/posters/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          As a hobby, I enjoy making posters for media libraries. Link
- My Walking Dead Set
           
         
         </description>
@@ -231,87 +188,6 @@
         
         
           What I&#39;m watching.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Showcase</title>
-      <link>http://DarkishLocket10.github.io/showcase/showcase/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://DarkishLocket10.github.io/showcase/showcase/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Nothing to see here right now! This is page is a work in progress!
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>http://DarkishLocket10.github.io/about/</link>
-      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://DarkishLocket10.github.io/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          My name is Yash Patel (as you may know by now). There are links to all of my socials in the &amp;ldquo;Links&amp;rdquo; tab. I was born on December 31st, 2002. I&amp;rsquo;m currently in my second year of study @ Queens university in Kingston, Ontario.
-Some things i&amp;rsquo;m into are:
- Photography Games (all kinds) Computers, both engineering &amp;amp; science (code) Music! (Especially musicals)   My resume is available as a pdf here.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Hello Friend</title>
-      <link>http://DarkishLocket10.github.io/post/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
-      
-      <guid>http://DarkishLocket10.github.io/post/hello/</guid>
-      <description>
-        
-          &lt;img src=&#34;http://DarkishLocket10.github.io/img/hello.jpg&#34;/&gt;
-          
-        
-        
-        
-          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>http://DarkishLocket10.github.io/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://DarkishLocket10.github.io/archive/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
           
         
         </description>
