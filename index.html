@@ -32,6 +32,10 @@
   }
   </style>
 </head>
+
+
+
+
 <body>
 
   
@@ -82,11 +86,11 @@
 
 <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Yash Patel" />
 
-
-
   </head>
+
+
   <body class="dark-theme">
-    <div class="container">
+    <body class="d-flex flex-column min-vh-100">
 <header class="header">
   <span class="header__inner">
     <a
@@ -168,23 +172,16 @@
   <div class="posts">
     
     <div class="post on-list">
-      <h1 class="post-title"><a >Yash Patel</a></h1>
+      <h1 class="post-title"><a >Home</a></h1>
       <div class="post-meta">
         
           <span class="post-date">
             
           </span>
 
-          
-        
-
-        
           <span class="post-author">Welcome to my website!</span>
-        
 
-        
       </div>
-
 
       <div id="demo" class="carousel slide" data-ride="carousel">
         <ul class="carousel-indicators">
@@ -224,7 +221,60 @@
       </div>
   
     </div>
-    
+
+
+
+
+<button id="switch" onclick="toggle()">Click to show/hide</button>
+
+<script>
+window.onload=function(){
+  document.getElementById("switch").click();
+};
+</script>
+
+<script>
+function change()
+{
+    if (this.value=="Close Curtain") this.value = "Open Curtain";
+    else this.value = "Close Curtain";
+}
+</script>
+
+<div id="myDIV">
+<div class="container">
+  <div style="text-align:center">
+    <h2>Contact Me!</h2>
+    <p>Leave a message here:</p>
+<form action="https://getform.io/f/3ccf94d2-46dc-4f94-9d05-51786fdbd322" method="POST">
+    <input type="text" name="name" placeholder="Your name">
+    <input type="email" name="email" placeholder="Please include your email">
+    <input type="text" name="message" placeholder="Start writing here">
+     
+    <select name="Country">
+          <option value="australia">Australia</option>
+          <option value="canada">Canada</option>
+          <option value="usa">USA</option>
+    </select>
+    <button type="submit">Send</button>
+</form>
+</div>
+
+<script>
+function toggle() {
+    var x = document.getElementById("myDIV");
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
+</script>
+
+
+
+
+
     <div class="pagination">
   <div class="pagination__buttons">
     
